@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos base */
+:root {
+    --text-color: #c2c6da;
+    --background-color: #181a1b;
+    --title-color: darkcyan;
+    --font:'onest';
+    --background-gradient-dark: linear-gradient(270deg, #4722ff 0%, #2df8f8 100%);
+    --background-gradient: var(--background-gradient-dark);
+    --description-border:  1px solid rgba(245, 245, 245, .2);
+    --shadow-color: #fff6;
+    --border-color:#2df8f8;
+    --border-box-shadow:0 0 10px 3px #27edf7aa,0 0 25px 6px #27e6f788,0 0 40px 10px #27d8f733;
+    
+}
+
+/* Estilos para modo oscuro */
+:root[data-theme="dark"] {
+    --text-color: #181a1b;
+    --background-color: rgb(245, 245, 245);
+    --title-color: aqua;
+    --font:'onest';
+    --background-gradient-light: linear-gradient(270deg, #99faff 0%, #fe9df3 100%);
+    --background-gradient: var(--background-gradient-light);
+    --description-border:  1px solid rgba(10, 10, 10, .2);
+    --shadow-color: #fe9df3;
+    --border-color:#fe9df3;
+    --border-box-shadow:0 0 10px 3px #f727f7aa,0 0 25px 6px #f727f788,0 0 40px 10px #f727e933;
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-family: var(--font), Arial, Helvetica, sans-serif;
+    transition: all 0.6s ease;
+}

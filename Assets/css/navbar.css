@@ -1,0 +1,24 @@
+.toggle{
+    cursor: pointer;
+}
+
+nav{
+    display: none;
+}
+nav > *{
+    text-decoration: none;
+}
+
+nav a:visited {
+    color: var(--text-color);
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+    height: 2rem;
+    max-width: 860px;
+    border: 1px solid var(--text-color);
+}
