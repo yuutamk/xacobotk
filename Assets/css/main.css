@@ -362,11 +362,18 @@ article .experiences-title{
     font-size: 0.8em; /* Muestra el texto en tamaño adecuado */
   }
   
+  
+  .stack:hover .icon-scale svg,
   .stack:hover .icon-scale img {
     transform: scale(1.2); /* Escala el ícono */
     transition: transform 0.3s ease;
+
   }
 
+  .stack:hover .icon-scale svg{
+    transform: scale(1.2) rotate(90deg);
+
+  }
   
 span  img {
     width: 3.3rem;
@@ -430,4 +437,176 @@ span  img {
 
 .icon-invert{
     filter: invert(1);
+}
+
+
+.icon-title-container{
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon-title-container svg,
+.icon-title-container img{
+    width: 20px;
+    
+}
+
+.title-stacks{
+    font-size: 1.2rem;
+}
+
+.icon-aspel img{
+    width: 25px;
+}
+
+
+.web span.icon-scale img{
+    width: 1.8rem;
+}
+
+.web span.icon-sql img{
+    width: 3rem;
+}
+
+
+.programacion .database span.icon-mariadb img,
+.programacion .database span.icon-mysql img,
+.programacion .database span.icon-mongodb img,
+.programacion .frameworks span.icon-flask img{
+    width: 3.5rem;
+}
+.programacion span.icon-scale img{
+    width: 2.3rem;
+    height: 2.3rem;
+}
+
+
+
+.programacion .version-control ul,
+.programacion .database ul,
+.programacion .frameworks ul{
+    display: flex;
+    gap: 2rem;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+.programacion .lenguajes ul{
+    gap: 1.5rem;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+.programacion{
+    display: flex;
+    flex-direction: column;
+    row-gap: 3.5rem;
+    
+}
+
+.programacion .version-control,
+.programacion .database,
+.programacion .frameworks,
+.programacion .lenguajes{
+    display: flex;
+    
+}
+
+.stacks .frameworks span.icon-scale
+.stacks .programacion span.icon-html{
+    align-self: self-start;
+}
+
+
+.adicionales ul .icon-scale,
+.aspel ul .icon-scale,
+.audio-video ul .icon-scale,
+.mantenimiento ul .icon-scale,
+.design ul .icon-scale,
+.office365 ul .icon-scale,
+.programacion .version-control ul .icon-scale,
+.programacion .database ul .icon-scale,
+.programacion .frameworks ul .icon-scale,
+.programacion .lenguajes ul .icon-scale{
+    gap: 10px;
+    align-self: self-start;
+    
+}
+
+
+.design ul .icon-scale img:not(.icon-photoshop img, .icon-illustrator img, .icon-indesign img) {
+    padding-top: 3px;
+}
+
+
+.design ul .icon-scale:not(.icon-photoshop, .icon-illustrator) {
+    gap: 5px;
+}
+
+
+.design ul .icon-photoshop,
+.design ul .icon-illustrator{
+    gap: 5px;
+}
+
+.design ul .icon-scale img{
+    width: 50px;
+    
+}
+
+.design ul .icon-illustrator img{
+    width: 52px;
+    padding-top: 3px;
+}
+
+.design ul .icon-photoshop img{
+    width: 30px;
+    padding-top: 4px;
+}
+.design ul .icon-indesign img{
+   width: 25px;
+   padding-top: 5px;
+   margin-bottom: 6px;
+}
+
+.stacks > section{
+    margin: 2rem 0;
+}
+
+.mantenimiento ul{
+    gap: 4.3rem;
+    margin: 20px 0;
+}
+
+.mantenimiento ul .icon-scale{
+    gap: 0;
+}
+
+.adicionales ul .icon-scale img{
+    width: 28px;
+}
+.aspel ul .icon-sae img,
+.aspel ul .icon-coi img{
+    width: 30px;
+}
+
+
+.audio-video ul .icon-premiere-pro img,
+.audio-video ul .icon-adobe-audition img{
+    width: 55px;
+}
+
+.sistema-operativo ul .icon-scale img{
+    width: 20px;
+}
+.audio-video ul .icon-audacity img{
+    width: 30px;
+}
+
+
+.sistema-operativo ul,
+.audio-video ul,
+.aspel ul{
+    margin: 40px 0;
 }

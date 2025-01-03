@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    font-size: 76.5%;
+}
+
 /* Estilos base */
 :root {
     --text-color: #c2c6da;

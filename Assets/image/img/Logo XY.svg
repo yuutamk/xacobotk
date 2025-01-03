@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 515.33 510.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_37);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_332);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_25);
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_332-2);
+      }
+
+      .cls-6 {
+        fill: #009fe3;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_348);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_25" data-name="Degradado sin nombre 25" x1="253.16" y1="383.51" x2="496.53" y2="383.51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#312783" stop-opacity="0"/>
+      <stop offset=".07" stop-color="#862bde" stop-opacity=".31"/>
+      <stop offset=".23" stop-color="#8a2be2" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#8a2be2"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_348" data-name="Degradado sin nombre 348" x1="6" y1="139.39" x2="253.16" y2="139.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2581c4"/>
+      <stop offset=".48" stop-color="#163de5" stop-opacity=".47"/>
+      <stop offset=".96" stop-color="#153ae6" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#312783" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_37" data-name="Degradado sin nombre 37" x1="157.03" y1="263.12" x2="349.29" y2="263.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c75ff"/>
+      <stop offset=".92" stop-color="#87cefa" stop-opacity=".49"/>
+      <stop offset="1" stop-color="#2581c4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_332" data-name="Degradado sin nombre 332" x1="253.16" y1="138.9" x2="494.3" y2="138.9" gradientUnits="userSpaceOnUse">
+      <stop offset=".58" stop-color="#153ae6" stop-opacity=".42"/>
+      <stop offset=".97" stop-color="#2581c4"/>
+      <stop offset="1" stop-color="#009fe3" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_332-2" data-name="Degradado sin nombre 332" x1="60.9" y1="293.72" x2="308.05" y2="293.72" gradientTransform="translate(314.06 677.43) rotate(-180)" xlink:href="#Degradado_sin_nombre_332"/>
+  </defs>
+  <polygon class="cls-3" points="496.53 414.34 496.53 504.3 389.7 504.3 253.16 362.53 324.66 288.28 349.29 262.71 496.53 414.34"/>
+  <polygon class="cls-8" points="253.16 163.5 205.09 213.1 157.03 262.71 6 105.57 6 16.08 110.31 16.08 253.16 163.5"/>
+  <polygon class="cls-1" points="349.29 262.71 324.66 288.28 253.16 362.53 157.03 262.71 205.09 213.2 253.16 163.7 349.29 262.71"/>
+  <polygon class="cls-2" points="494.3 15.1 494.3 104.95 346.95 262.71 253.16 163.11 392.54 15.1 494.3 15.1"/>
+  <polygon class="cls-5" points="6.01 504.3 6.01 416.78 157.03 263.12 253.16 360.13 110.3 504.3 6.01 504.3"/>
+  <line class="cls-6" x1="277.05" y1="188.31" x2="323.96" y2="141.88"/>
+  <ellipse class="cls-4" cx="335.67" cy="130.19" rx="11.71" ry="11.91"/>
+  <ellipse class="cls-7" cx="444.22" cy="71.96" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-7" cx="444.22" cy="450.97" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-7" cx="61.46" cy="71.96" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-7" cx="61.46" cy="450.97" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-7" cx="255.06" cy="260.44" rx="15.34" ry="15.59"/>
+  <line class="cls-4" x1="300.5" y1="212.46" x2="428.89" y2="84.04"/>
+  <line class="cls-7" x1="200.83" y1="308.19" x2="73.01" y2="438.76"/>
+  <line class="cls-7" x1="205.09" y1="213.2" x2="73.01" y2="84.04"/>
+  <line class="cls-7" x1="301.23" y1="312.62" x2="428.89" y2="438.76"/>
+  <line class="cls-7" x1="223.5" y1="333.47" x2="173.41" y2="381.82"/>
+  <line class="cls-7" x1="323.6" y1="287.16" x2="371.16" y2="338.08"/>
+  <ellipse class="cls-4" cx="383.01" cy="350.62" rx="11.71" ry="11.91"/>
+  <ellipse class="cls-4" cx="164.84" cy="393.5" rx="11.71" ry="11.91"/>
+  <g>
+    <line class="cls-6" x1="227.4" y1="190.23" x2="177.31" y2="141.88"/>
+    <ellipse class="cls-4" cx="168.74" cy="130.19" rx="11.71" ry="11.91"/>
+  </g>
+</svg>

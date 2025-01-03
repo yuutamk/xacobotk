@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515.33 510.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="496.53 414.34 496.53 504.3 389.7 504.3 253.16 362.53 324.66 288.28 349.29 262.71 496.53 414.34"/>
+  <polygon class="cls-1" points="253.16 163.5 205.09 213.1 157.03 262.71 6 105.57 6 16.08 110.31 16.08 253.16 163.5"/>
+  <polygon class="cls-1" points="349.29 262.71 324.66 288.28 253.16 362.53 157.03 262.71 205.09 213.2 253.16 163.7 349.29 262.71"/>
+  <polygon class="cls-1" points="494.3 15.1 494.3 104.95 346.95 262.71 253.16 163.11 392.54 15.1 494.3 15.1"/>
+  <polygon class="cls-1" points="6.01 504.3 6.01 416.78 157.03 263.12 253.16 360.13 110.3 504.3 6.01 504.3"/>
+  <line class="cls-1" x1="277.05" y1="188.31" x2="323.96" y2="141.88"/>
+  <ellipse class="cls-1" cx="335.67" cy="130.19" rx="11.71" ry="11.91"/>
+  <ellipse class="cls-1" cx="444.22" cy="71.96" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-1" cx="61.46" cy="71.96" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-1" cx="61.46" cy="450.97" rx="15.34" ry="15.59"/>
+  <ellipse class="cls-1" cx="255.06" cy="260.44" rx="15.34" ry="15.59"/>
+  <line class="cls-1" x1="300.5" y1="212.46" x2="428.89" y2="84.04"/>
+  <line class="cls-1" x1="200.83" y1="308.19" x2="73.01" y2="438.76"/>
+  <line class="cls-1" x1="205.09" y1="213.2" x2="73.01" y2="84.04"/>
+  <line class="cls-1" x1="223.5" y1="333.47" x2="173.41" y2="381.82"/>
+  <ellipse class="cls-1" cx="164.84" cy="393.5" rx="11.71" ry="11.91"/>
+  <g>
+    <line class="cls-1" x1="227.4" y1="190.23" x2="177.31" y2="141.88"/>
+    <ellipse class="cls-1" cx="168.74" cy="130.19" rx="11.71" ry="11.91"/>
+  </g>
+</svg>
