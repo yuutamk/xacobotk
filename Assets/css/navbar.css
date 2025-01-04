@@ -1,11 +1,29 @@
-.toggle{
-    cursor: pointer;
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Centra el contenido verticalmente */
+    height: 7vh;
+    width: 100%; /* Asegúrate de que ocupe todo el ancho de la ventana */
+    max-width: 860px;
+    border-bottom: 1px solid var(--text-color);
+    position: fixed; /* Fija el header */
+    top: 0; /* Lo posiciona en la parte superior */
+    left: 0; /* Alinea el header al borde izquierdo */
+    background-color: var(--filter-color); /* Fija un color de fondo */
+    z-index: 1000; /* Asegura que esté encima de otros elementos */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Agrega una sombra sutil para separarlo del contenido */
+    padding: 0 1rem; /* Agrega espacio lateral */
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    opacity: 40px;
+    
 }
 
-nav{
-    display: none;
+nav {
+    display: none; /* Esto parece parte de un menú móvil. Modifica según sea necesario */
 }
-nav > *{
+
+nav > * {
     text-decoration: none;
 }
 
@@ -13,14 +31,8 @@ nav a:visited {
     color: var(--text-color);
 }
 
-
-.header{
-    display: flex;
-    justify-content: space-between;
-    height: 7vh;
-   
-    max-width: 860px;
-    border: 1px solid var(--text-color);
+.toggle {
+    cursor: pointer;
 }
 
 .header section img{

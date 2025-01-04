@@ -20,6 +20,7 @@ html{
     --shadow-color: #fff6;
     --border-color:#2df8f8;
     --border-box-shadow:0 0 10px 3px #27edf7aa,0 0 25px 6px #27e6f788,0 0 40px 10px #27d8f733;
+    --filter-color:#000000bd;
     
 }
 
@@ -35,6 +36,7 @@ html{
     --shadow-color: #fe9df3;
     --border-color:#fe9df3;
     --border-box-shadow:0 0 10px 3px #f727f7aa,0 0 25px 6px #f727f788,0 0 40px 10px #f727e933;
+    --filter-color:#ffffffbd;
 }
 
 body {
