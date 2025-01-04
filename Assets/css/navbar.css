@@ -17,8 +17,12 @@ nav a:visited {
 .header{
     display: flex;
     justify-content: space-between;
-    
-    height: 2rem;
+    height: 7vh;
+   
     max-width: 860px;
     border: 1px solid var(--text-color);
+}
+
+.header section img{
+    width: 4rem;
 }
