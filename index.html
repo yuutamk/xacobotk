@@ -18,6 +18,14 @@
       href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap"
       rel="stylesheet"
     />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+
+    <!-- Fivicon -->
+    <link rel="icon" href="./Assets/image/img/Logo XY 1.svg">
+
   </head>
   <body>
     <header class="header">
@@ -28,6 +36,13 @@
           class="toggle"
           alt="menu"
         />
+        
+      </section>
+      <section class="header-logo">
+        <figure>
+          <img src="./Assets/image/img/Logo XY.svg" alt="Logo">
+        </figure>
+        <p>XacoboMK</p>
       </section>
       <nav>
         <a href="">Experiencia</a>
@@ -237,6 +252,7 @@
 
 
         <section class="web">
+          
           <div class="title-stacks">
             <span class="icon-title-container">
               
@@ -244,10 +260,11 @@
             </span>
             <h2>Diseño Web</h2>
           </div>
-
-          <ul>
-            <li
-  class="stack"
+          <section class="frontend">
+            <h3 style="">Frontend</h3>
+            <ul>
+              <li
+              class="stack"
   style="
     --background-dif: #e34f26;
     --darkreader-bg--background-dif: #b8401f;
@@ -279,8 +296,8 @@
 </li>
 
 <li
-  class="stack"
-  style="
+class="stack"
+style="
     --background-dif: #f7df1e;
     --darkreader-bg--background-dif: #dccf19;
     --darkreader-text--background-dif: #fff323;
@@ -293,24 +310,126 @@
     <span>JavaScript</span>
   </span>
 </li>
+</ul>
+</section>
+<section class="base-datos">
+<h3>Base de datos</h3>
 
-<li
-  class="stack"
-  style="
-    --background-dif: #caca1c;
-    --darkreader-bg--background-dif: #baaf15;
-    --darkreader-text--background-dif: #dfc329;
-    --darkreader-border--background-dif: #ab931a;
-  "
->
-  <p class="stack__name">SQL</p>
-  <span class="icon-sql icon-scale">
-    <img src="./Assets/image/icons/SQL_Developer.svg"  alt="SQL Icon" />
-    <span>SQL</span>
+<ul>
+
+  <li class="stack" style="
+    --background-dif: #00758f;
+    --darkreader-bg--background-dif: #005c70;
+    --darkreader-text--background-dif: #0099b3;
+    --darkreader-border--background-dif: #004357;
+  ">
+  <p class="stack__name">MySQL</p>
+  <span class="icon-mysql icon-scale">
+    <img src="./Assets/image/icons/MySQL-Logo.svg" class="icon-invert" id="icon-mysql" alt="Icon MySQL">
+    <span>MySQL</span>
+  </span>
+  </li>
+    <li class="stack" style="
+    --background-dif: #003545;
+    --darkreader-bg--background-dif: #002936;
+    --darkreader-text--background-dif: #004c61;
+    --darkreader-border--background-dif: #001f2a;
+  ">
+    <p class="stack__name">MariaDB</p>
+    <span class="icon-mariadb icon-scale">
+      <img src="./Assets/image/icons/Mariadb.svg" alt="">
+      <span>MariaDB</span>
+    </span>  
+</li>
+    <li class="stack" style="
+    --background-dif: #336791;
+    --darkreader-bg--background-dif: #285374;
+    --darkreader-text--background-dif: #448db3;
+    --darkreader-border--background-dif: #1c3f57;
+  ">
+  <p class="stack__name">PostgreSQL</p>  
+  <span class="icon-postgresql icon-scale">
+    <img src="./Assets/image/icons/PostgreSQL-Logo.svg" alt="Icon PostgreSQL">
+    <span>Postgre SQL</span>
+  </span>
+</li>
+    <li class="stack" style="
+    --background-dif: #47a248;
+    --darkreader-bg--background-dif: #398038;
+    --darkreader-text--background-dif: #57c55a;
+    --darkreader-border--background-dif: #2a602a;
+  ">
+  <p class="stack__name">MongoDB</p>
+  <span class="icon-scale icon-mongodb">
+    <img src="./Assets/image/icons/MongoDB-Logo.svg" alt="Icon MongoDB">
+    <span>MongoDB</span>
   </span>
 </li>
 
-          </ul>
+
+</ul>
+</section>
+<section class="frameworks">
+  <h3>Frameworks</h3>
+  <ul>
+    <li
+    class="stack"
+  style="
+    --background-dif: #ff2d20;
+    --darkreader-bg--background-dif: #cc2319;
+    --darkreader-text--background-dif: #ff4a36;
+    --darkreader-border--background-dif: #991a13;
+  "
+  >
+  <p class="stack__name">Laravel</p>
+  <span class="icon-laravel icon-scale">
+    <img src="./Assets/image/icons/Laravel-Logo.svg" alt="Icon Laravel">
+    <span>Laravel</span>
+
+  </span>
+
+</li>
+
+    <li class="stack" style="
+    --background-dif: #6db33f;
+    --darkreader-bg--background-dif: #578e31;
+    --darkreader-text--background-dif: #7fc652;
+    --darkreader-border--background-dif: #426622;
+  ">
+  <p class="stack__name">Spring</p>
+  <span class="icon-spring icon-scale">
+    <img src="./Assets/image/icons/spring.svg" id="icon-django" alt="Icon Spring">
+    <span>Spring</span>
+  </span>
+</li>
+    <li class="stack" style="
+    --background-dif: #198d61;
+    --darkreader-bg--background-dif: #1d8b63;
+    --darkreader-text--background-dif: #19855f;
+    --darkreader-border--background-dif: #196b49;
+  ">
+  <p class="stack__name">Django</p>
+  <span class="icon-django icon-scale">
+    <img src="./Assets/image/icons/django.svg" alt="Icon Django">
+    <span>Django</span>
+  </span>
+  </li>
+    <li class="stack" style="
+    --background-dif: #000000;
+    --darkreader-bg--background-dif: #000000;
+    --darkreader-text--background-dif: #333333;
+    --darkreader-border--background-dif: #000000;
+  ">
+  <p class="stack__name">Flask</p>
+  <span class="icon-flask icon-scale">
+    <img src="./Assets/image/icons/Flask_web_framework.svg" alt="Icon Flask">
+    <span>Flask</span>
+  </span>
+  
+ </li>
+  </ul>
+
+</section>          
 
         </section>
        
@@ -325,6 +444,7 @@
           
             
           <section class="lenguajes">
+            <h3>Lenguajes</h3>
             <ul>
           
          
@@ -408,132 +528,29 @@
   </span>
 
 </li>
+
+<li
+class="stack"
+  style="
+    --background-dif: #caca1c;
+    --darkreader-bg--background-dif: #baaf15;
+    --darkreader-text--background-dif: #dfc329;
+    --darkreader-border--background-dif: #ab931a;
+  "
+>
+  <p class="stack__name">SQL</p>
+  <span class="icon-sql icon-scale">
+    <img src="./Assets/image/icons/SQL_Developer.svg"  alt="SQL Icon" />
+    <span>SQL</span>
+  </span>
+</li>
 </ul>
 </section>
 
-<section class="frameworks">
 
-  
-  <ul>
-    <li
-    class="stack"
-  style="
-    --background-dif: #ff2d20;
-    --darkreader-bg--background-dif: #cc2319;
-    --darkreader-text--background-dif: #ff4a36;
-    --darkreader-border--background-dif: #991a13;
-  "
-  >
-  <p class="stack__name">Laravel</p>
-  <span class="icon-laravel icon-scale">
-    <img src="./Assets/image/icons/Laravel-Logo.svg" alt="Icon Laravel">
-    <span>Laravel</span>
-
-  </span>
-
-</li>
-
-    <li class="stack" style="
-    --background-dif: #6db33f;
-    --darkreader-bg--background-dif: #578e31;
-    --darkreader-text--background-dif: #7fc652;
-    --darkreader-border--background-dif: #426622;
-  ">
-  <p class="stack__name">Spring</p>
-  <span class="icon-spring icon-scale">
-    <img src="./Assets/image/icons/spring.svg" id="icon-django" alt="Icon Spring">
-    <span>Spring</span>
-  </span>
-</li>
-    <li class="stack" style="
-    --background-dif: #198d61;
-    --darkreader-bg--background-dif: #1d8b63;
-    --darkreader-text--background-dif: #19855f;
-    --darkreader-border--background-dif: #196b49;
-  ">
-  <p class="stack__name">Django</p>
-  <span class="icon-django icon-scale">
-    <img src="./Assets/image/icons/django.svg" alt="Icon Django">
-    <span>Django</span>
-  </span>
-  </li>
-    <li class="stack" style="
-    --background-dif: #000000;
-    --darkreader-bg--background-dif: #000000;
-    --darkreader-text--background-dif: #333333;
-    --darkreader-border--background-dif: #000000;
-  ">
-  <p class="stack__name">Flask</p>
-  <span class="icon-flask icon-scale">
-    <img src="./Assets/image/icons/Flask_web_framework.svg" alt="Icon Flask">
-    <span>Flask</span>
-  </span>
-  
- </li>
-  </ul>
-
-
-</section>
-<section class="database">
-
-
-
- 
-  <ul>
-    <li class="stack" style="
-    --background-dif: #00758f;
-    --darkreader-bg--background-dif: #005c70;
-    --darkreader-text--background-dif: #0099b3;
-    --darkreader-border--background-dif: #004357;
-  ">
-  <p class="stack__name">MySQL</p>
-  <span class="icon-mysql icon-scale">
-    <img src="./Assets/image/icons/MySQL-Logo.svg" class="icon-invert" id="icon-mysql" alt="Icon MySQL">
-    <span>MySQL</span>
-  </span>
-  </li>
-    <li class="stack" style="
-    --background-dif: #003545;
-    --darkreader-bg--background-dif: #002936;
-    --darkreader-text--background-dif: #004c61;
-    --darkreader-border--background-dif: #001f2a;
-  ">
-    <p class="stack__name">MariaDB</p>
-    <span class="icon-mariadb icon-scale">
-      <img src="./Assets/image/icons/Mariadb.svg" alt="">
-      <span>MariaDB</span>
-    </span>  
-</li>
-    <li class="stack" style="
-    --background-dif: #336791;
-    --darkreader-bg--background-dif: #285374;
-    --darkreader-text--background-dif: #448db3;
-    --darkreader-border--background-dif: #1c3f57;
-  ">
-  <p class="stack__name">PostgreSQL</p>  
-  <span class="icon-postgresql icon-scale">
-    <img src="./Assets/image/icons/PostgreSQL-Logo.svg" alt="Icon PostgreSQL">
-    <span>Postgre SQL</span>
-  </span>
-</li>
-    <li class="stack" style="
-    --background-dif: #47a248;
-    --darkreader-bg--background-dif: #398038;
-    --darkreader-text--background-dif: #57c55a;
-    --darkreader-border--background-dif: #2a602a;
-  ">
-  <p class="stack__name">MongoDB</p>
-  <span class="icon-scale icon-mongodb">
-    <img src="./Assets/image/icons/MongoDB-Logo.svg" alt="Icon MongoDB">
-    <span>MongoDB</span>
-  </span>
-</li>
-  </ul>
-
-</section>
 <section class="version-control">
 
-
+<h3>Control de versiones</h3>
 
  
   <ul>
@@ -730,6 +747,82 @@
             </ul>
           </section>
 
+          <section class="audio-video">
+            <div class="title-stacks">
+              <span class="icon-multimedia icon-invert icon-title-container">
+                <img src="./Assets/image/icons/multimedia.svg" alt="Icon multimedia">
+              </span>
+              <h2>Audio y Video</h2>
+            </div>
+            <ul>
+              <li
+  class="stack"
+  style="
+    --background-dif: #0000ff;
+    --darkreader-bg--background-dif: #0000cc;
+    --darkreader-text--background-dif: #3333ff;
+    --darkreader-border--background-dif: #000099;
+  "
+>
+  <p class="stack__name">AUDACITY</p>
+  <span class="icon-audacity icon-scale">
+    <img src="./Assets/image/icons/Audacity.svg" alt="Audacity Icon" />
+    <span>Audacity</span>
+  </span>
+</li>
+
+<li
+  class="stack"
+  style="
+    --background-dif: #7dcfb7;
+    --darkreader-bg--background-dif: #69b3a3;
+    --darkreader-text--background-dif: #9be0d1;
+    --darkreader-border--background-dif: #7bb8b0;
+  "
+>
+  <p class="stack__name">ADOBE AUDITION</p>
+  <span class="icon-adobe-audition icon-scale">
+    <img src="./Assets/image/icons/Adobe_Audition.svg" alt="Adobe Audition Icon" />
+    <span>Audition</span>
+  </span>
+</li>
+
+<li
+  class="stack"
+  style="
+    --background-dif: #9999ff;
+    --darkreader-bg--background-dif: #7f7fcc;
+    --darkreader-text--background-dif: #adadff;
+    --darkreader-border--background-dif: #666699;
+  "
+>
+  <p class="stack__name">PREMIERE PRO</p>
+  <span class="icon-premiere-pro icon-scale">
+    <img src="./Assets/image/icons/Premiere_Pro.svg" alt="Premiere Pro Icon" />
+    <span>Premiere Pro</span>
+  </span>
+</li>
+
+<li
+  class="stack"
+  style="
+    --background-dif: #58b7d1;
+    --darkreader-bg--background-dif: #4693a9;
+    --darkreader-text--background-dif: #6acbe3;
+    --darkreader-border--background-dif: #357484;
+  "
+>
+  <p class="stack__name">WONDERSHARE FILMORA</p>
+  <span class="icon-filmora icon-scale">
+    <img src="./Assets/image/icons/filmora-vertical-white.svg" alt="Filmora Icon" />
+    <span>Filmora</span>
+  </span>
+</li>
+
+            </ul>
+
+          </section>
+
 
 
 
@@ -888,7 +981,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24"><g fill="none" stroke="#2cbbff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" color="#2cbbff"><path d="M19 16v-2c0-2.828 0-4.243-.879-5.121C17.243 8 15.828 8 13 8h-2c-2.828 0-4.243 0-5.121.879C5 9.757 5 11.172 5 14v2c0 2.828 0 4.243.879 5.121C6.757 22 8.172 22 11 22h2c2.828 0 4.243 0 5.121-.879C19 20.243 19 18.828 19 16m0 2c1.414 0 2.121 0 2.56-.44c.44-.439.44-1.146.44-2.56s0-2.121-.44-2.56C21.122 12 20.415 12 19 12M5 18c-1.414 0-2.121 0-2.56-.44C2 17.122 2 16.415 2 15s0-2.121.44-2.56C2.878 12 3.585 12 5 12m8.5-8.5a1.5 1.5 0 1 1-3 0a1.5 1.5 0 0 1 3 0M12 5v3m-3 5v1m6-1v1"/><path d="M10 17.5s.667.5 2 .5s2-.5 2-.5"/></g></svg>
               
             </span>
-            <h2>Robótica</h2>
+            <h2>Robótica y Automatización</h2>
           </div>
 
           <ul>
@@ -937,7 +1030,7 @@
               
               <img src="./Assets/image/icons/apps-dev.svg" alt="Web Design Icon">
             </span>
-            <h2>Apps</h2>
+            <h2>Desarrollo de Aplicaciones</h2>
           </div>
           <ul>
             <li
@@ -966,7 +1059,7 @@
             <span class="icon-title-container">
               <img src="./Assets/image/icons/support.svg" alt="">
             </span>
-            <h2>Mantenimiento</h2>
+            <h2>Mantenimiento y Reparación</h2>
           </div>
 
             <ul>
@@ -1065,81 +1158,7 @@
 
           </section>
 
-          <section class="audio-video">
-            <div class="title-stacks">
-              <span class="icon-multimedia icon-invert icon-title-container">
-                <img src="./Assets/image/icons/multimedia.svg" alt="Icon multimedia">
-              </span>
-              <h2>Audio y Video</h2>
-            </div>
-            <ul>
-              <li
-  class="stack"
-  style="
-    --background-dif: #0000ff;
-    --darkreader-bg--background-dif: #0000cc;
-    --darkreader-text--background-dif: #3333ff;
-    --darkreader-border--background-dif: #000099;
-  "
->
-  <p class="stack__name">AUDACITY</p>
-  <span class="icon-audacity icon-scale">
-    <img src="./Assets/image/icons/Audacity.svg" alt="Audacity Icon" />
-    <span>Audacity</span>
-  </span>
-</li>
-
-<li
-  class="stack"
-  style="
-    --background-dif: #7dcfb7;
-    --darkreader-bg--background-dif: #69b3a3;
-    --darkreader-text--background-dif: #9be0d1;
-    --darkreader-border--background-dif: #7bb8b0;
-  "
->
-  <p class="stack__name">ADOBE AUDITION</p>
-  <span class="icon-adobe-audition icon-scale">
-    <img src="./Assets/image/icons/Adobe_Audition.svg" alt="Adobe Audition Icon" />
-    <span>Audition</span>
-  </span>
-</li>
-
-<li
-  class="stack"
-  style="
-    --background-dif: #9999ff;
-    --darkreader-bg--background-dif: #7f7fcc;
-    --darkreader-text--background-dif: #adadff;
-    --darkreader-border--background-dif: #666699;
-  "
->
-  <p class="stack__name">PREMIERE PRO</p>
-  <span class="icon-premiere-pro icon-scale">
-    <img src="./Assets/image/icons/Premiere_Pro.svg" alt="Premiere Pro Icon" />
-    <span>Premiere Pro</span>
-  </span>
-</li>
-
-<li
-  class="stack"
-  style="
-    --background-dif: #58b7d1;
-    --darkreader-bg--background-dif: #4693a9;
-    --darkreader-text--background-dif: #6acbe3;
-    --darkreader-border--background-dif: #357484;
-  "
->
-  <p class="stack__name">WONDERSHARE FILMORA</p>
-  <span class="icon-filmora icon-scale">
-    <img src="./Assets/image/icons/filmora-vertical-white.svg" alt="Filmora Icon" />
-    <span>Filmora</span>
-  </span>
-</li>
-
-            </ul>
-
-          </section>
+          
 
           <section class="sistema-operativo">
             <div class="title-stacks">
@@ -1190,7 +1209,7 @@
               <span class="icon-title-container">
                 <img src="./Assets/image/icons/apps-dev.svg" alt="">
               </span>
-              <h2>Adicionales</h2>
+              <h2>Herramientas Adicionales</h2>
             </div>
             
 
