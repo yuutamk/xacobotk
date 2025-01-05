@@ -1,0 +1,41 @@
+@media (min-width: 1025px) {
+    .header {
+        width: 80vw;
+        max-width: 860px;
+        margin: auto;
+        color: var(--text-color);
+        position: fixed;
+        left: calc(100vw - 76.85vw); /* Ajusta la posición horizontal */
+        top: 7px; /* Ajusta la posición vertical */
+        transition: none; /* Desactiva las transiciones */
+        
+    }
+
+    nav {
+        justify-content: space-between;
+        gap: 2rem;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+        font-weight: bold;
+        color: var(--text-color);
+    }
+
+     /* main */
+
+     .about{
+        flex-direction: row;
+        margin-top: 0;
+        height: 46vh;
+    }
+
+    .about figure{
+        height: auto;
+    }
+
+    .hero{
+        margin-top: calc(100vh - 90vh);
+    }
+
+}

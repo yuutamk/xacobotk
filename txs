@@ -1,0 +1,4 @@
+width: 80vw;
+    max-width: 860px;
+    margin: auto;
+    color: var(--text-color);
