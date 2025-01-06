@@ -1,0 +1,19 @@
+/* Escritorio pequeño y laptops */
+@media (min-width: 1025px) {
+    .header {
+        justify-content: center;
+        width: 90%; /* Reducir el ancho del header */
+        margin: 1rem 5vw; /* Centramos el header */
+        border-radius: 15px; /* Bordes redondeados */
+        border: 1px solid var(--text-color); /* Borde adicional para desktops */
+        
+    }
+
+    nav {
+        gap: 3rem;
+    }
+
+    .header-logo {
+        font-size: 3rem;
+    }
+}

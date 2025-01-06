@@ -1,0 +1,14 @@
+/* Teléfonos grandes y tablets pequeñas */
+@media (min-width: 481px) {
+    .header {
+        padding: 0 1.5rem;
+    }
+
+    nav {
+        padding: 1.5rem;
+    }
+
+    nav a {
+        font-size: 1.1rem;
+    }
+}

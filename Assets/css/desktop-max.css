@@ -1,0 +1,17 @@
+/* Pantallas grandes (escritorio ancho) */
+@media (min-width: 1441px) {
+    .header {
+        max-width: 1200px; /* Limitar el ancho en pantallas muy grandes */
+        gap: 2rem;
+        margin: 1rem calc((100vw - 1200px) / 2);
+    }
+
+    .header-logo {
+        position: relative;
+        right: 10rem;
+    }
+
+    nav a {
+        font-size: 1.3rem;
+    }
+}

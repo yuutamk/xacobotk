@@ -1,0 +1,28 @@
+/* Tablets y dispositivos medianos */
+@media (min-width: 769px) {
+    .header {
+        padding: 0 2rem;
+        max-width: none;
+    }
+
+    nav {
+        display: flex; /* Menú visible en horizontal */
+        flex-direction: row;
+        position: static;
+        background: none;
+        padding: 0;
+        gap: 2rem;
+    }
+
+    nav a {
+        font-size: 1.2rem;
+    }
+
+    .header-logo {
+        font-size: 2.5rem;
+    }
+
+    .icon-menu {
+        display: none; /* Oculta el ícono de menú en tablet */
+    }
+}
