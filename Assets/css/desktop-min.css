@@ -16,4 +16,51 @@
     .header-logo {
         font-size: 3rem;
     }
+
+    /* main */
+
+    .about{
+        flex-direction: row;
+        margin-top: 0;
+        height: 46vh;
+    }
+
+    .about figure{
+        height: auto;
+    }
+
+    .hero{
+        margin-top: calc(100vh - 90vh);
+    }
+
+    .hero{
+        font-size: 1.8rem;
+    }
+
+    .title h2{
+        font-size: 5.5rem;
+    }
+    .title h1{
+        font-size: 6.5rem;
+    }
+
+    .about-description{
+        font-size: 1.5rem;
+    }
+
+    .about_img{
+        width: 23rem;
+    }
+
+    .stacks-title,
+    .experiences-subtitle{
+        font-size: 3.5em;
+    }
+
+    /* Escala genérica */
+    .web .frontend ul .icon-scale img,
+    .stack .icon-scale img {
+        width: calc(100% + 1%); /* Incrementa proporcionalmente */
+    }
+
 }
