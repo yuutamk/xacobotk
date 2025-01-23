@@ -2,7 +2,7 @@
 @media (min-width: 1441px) {
     .header {
         max-width: 1200px; /* Limitar el ancho en pantallas muy grandes */
-        gap: 2rem;
+        gap: 8rem;
         margin: 1rem calc((100vw - 1200px) / 2);
     }
 

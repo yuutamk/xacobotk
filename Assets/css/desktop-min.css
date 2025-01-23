@@ -63,4 +63,77 @@
         width: calc(100% + 1%); /* Incrementa proporcionalmente */
     }
 
+    .experiences{
+        font-size: 1.5rem;
+
+    }
+
+    .stacks{
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+    .stacks > * {
+        padding: 1.5rem;
+    }
+
+    .stacks-title-container{
+        width: 100%;
+        
+    }
+
+    .stacks .web{
+        width: 60%;
+    }
+
+    .stacks .programacion{
+        width: 40%;
+    }
+
+    .design{
+        width: 70%;
+    }
+
+    .design-3d{
+        width: 30%;
+    }
+
+    .aspel,
+    .audio-video{
+        width: 40%;
+    }
+
+    .office365{
+        width: 60%;
+    }
+
+    .apps,
+    .robotica{
+        width: 35%;
+    }
+
+    .sistema-operativo,
+    .adicionales,
+    .mantenimiento{
+        width: 30%;
+    }
+    
+    .title-stacks{
+        font-size: 1.2rem;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .apps ul{
+        padding: 1.5rem;
+    }
+
+    .header{
+        gap: 4.5rem;
+    }
+
+    .icon-scale span{
+        display: none;
+    }
 }

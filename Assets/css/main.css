@@ -645,3 +645,7 @@ span img {
 .frameworks ul {
   gap: 5rem;
 }
+
+.english{
+  display: none;
+}
