@@ -5,6 +5,7 @@ nav {
     top: 7vh; /* Justo debajo del header */
     left: 0;
     width: 100%; /* Ocupa todo el ancho de la pantalla */
+    height: 100vh;
     background-color: var(--filter-color);
     flex-direction: column;
     padding: 1rem;
@@ -21,8 +22,8 @@ nav.active {
 nav a {
     color: var(--text-color);
     text-decoration: none;
-    font-size: 1.5rem;
-    padding: 0.5rem 0;
+    font-size: 3.5rem;
+    padding: 2.5rem 0;
     text-align: center;
     display: block;
 }
