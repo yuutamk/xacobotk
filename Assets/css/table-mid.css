@@ -12,10 +12,12 @@
         background: none;
         padding: 0;
         gap: 2rem;
+        
     }
 
-    nav a {
-        font-size: 1.2rem;
+    nav.active a {
+        font-size: 40px;
+        
     }
 
     .header-logo {
