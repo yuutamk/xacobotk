@@ -27,12 +27,14 @@ nav a:hover {
         position: absolute;
         top: 7vh; /* Justo debajo del header */
         left: 0;
-        width: 100%; /* Ocupa todo el ancho de la pantalla */
+        width: 60%; /* Ocupa todo el ancho de la pantalla */
         height: 100vh;
         background-color: var(--filter-color);
         flex-direction: column;
         padding: 1rem;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 4px 6px rgb(0, 0, 0);
+        backdrop-filter: blur(90px);
+        -webkit-backdrop-filter: blur(15px);
         z-index: 999;
     }
 
