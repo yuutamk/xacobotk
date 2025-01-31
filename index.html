@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="./Assets/css/table-mid.css">
     <link rel="stylesheet" href="./Assets/css/desktop-min.css">
     <link rel="stylesheet" href="./Assets/css/desktop-max.css">
+    <link rel="stylesheet" href="./Assets/css/form.css">
 
     <title>Jacobo Cosme</title>
 
@@ -57,7 +58,7 @@
         <a href="#experiences">Experiencia</a>
         <a href="">Proyectos</a>
         <a href="#about">Sobre Mi</a>
-        <a href="">Contactos</a>
+        <a href="#contact">Contactos</a>
       </nav>
       <section>
         <img
@@ -1312,6 +1313,23 @@ class="stack"
 
 
       </section>
+
+      <section class="contact" id="contact">
+    <form class="form" action="https://formspree.io/f/mpwqrqbr" method="POST">
+        <h2 class="form__title subtitle">Contacto</h2>
+        
+        <label class="form__label" for="name">Nombre</label>
+        <input class="form__input" id="name" type="text" name="name" placeholder="Escribe tu Nombre" required>
+        
+        <label class="form__label" for="email">Correo electrónico</label>
+        <input class="form__input" id="email" type="email" name="email" placeholder="Tu correo electrónico" required>
+        
+        <label class="form__label" for="message">Mensaje</label>
+        <textarea class="form__textarea" id="message" name="message" rows="10" placeholder="Escribe tu mensaje" required></textarea>
+        
+        <button class="form__btn" type="submit">Enviar</button>
+    </form>
+</section>           
     </main>
   </body>
 </html>
