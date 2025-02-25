@@ -27,4 +27,17 @@
     .icon-menu {
         display: none; /* Oculta el ícono de menú en tablet */
     }
+
+   
+    .toggle-button svg{
+        color: var(--title-color);
+        width: 6.5rem;
+        position: static;
+      }
+      
+      details[open] .toggle-button {
+        transform: rotate(180deg);
+        position: static;
+
+      }
 }

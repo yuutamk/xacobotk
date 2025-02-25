@@ -1,6 +1,3 @@
-/* Ocultar el menú por defecto */
-
-
 /* Cuando el menú está activo */
 nav.active {
     display: flex; /* Cambiamos a flex para mostrarlo */

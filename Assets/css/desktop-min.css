@@ -136,4 +136,16 @@
     .icon-scale span{
         display: none;
     }
+
+    .toggle-button svg{
+        color: var(--title-color);
+        width: 6.5rem;
+        position: static;
+      }
+      
+      details[open] .toggle-button {
+        transform: rotate(180deg);
+        position: static;
+
+      }
 }

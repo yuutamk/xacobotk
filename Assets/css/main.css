@@ -644,3 +644,46 @@ span img {
 .english{
   display: none;
 }
+
+
+details.card-content {
+  margin-top: 1rem;
+}
+
+summary.experiences-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.5rem;
+  list-style: none;
+}
+
+summary.experiences-title::-webkit-details-marker {
+  display: none;
+}
+
+.toggle-button {
+  background: none;
+  border: none;
+  
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.toggle-button svg {
+  color: var(--title-color);
+  width: 2.5rem;
+  position: absolute;
+  top: 52px;
+  right: 40px;
+  transition: transform 0.3s ease;
+}
+
+details[open] .toggle-button {
+  transform: rotate(180deg);
+  position: absolute;
+  left: 65%;
+  bottom: 65%;
+}

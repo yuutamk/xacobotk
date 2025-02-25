@@ -1,7 +1,102 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 515.33 510.3">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_2"
+   data-name="Capa 2"
+   viewBox="0 0 515.33 510.3"
+   version="1.1"
+   sodipodi:docname="Logo XY.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview30"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="1.80874"
+     inkscape:cx="257.91435"
+     inkscape:cy="255.14999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1168"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_2">
+    <sodipodi:guide
+       position="278.64701,259.8494"
+       orientation="0.70710678,0.70710678"
+       id="guide30"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="334.48699,323.98244"
+       orientation="0.70710678,-0.70710678"
+       id="guide31"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="0,510.29999"
+       orientation="0,515.33002"
+       id="guide32"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="515.27582,302.97334"
+       orientation="510.29999,0"
+       id="guide33"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="515.33001,0"
+       orientation="0,-515.33002"
+       id="guide34"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-510.29999,0"
+       id="guide35"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="379.26954,176.91874"
+       orientation="0.70710678,0.70710678"
+       id="guide36"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="283.62285,290.2573"
+       orientation="0.70710678,-0.70710678"
+       id="guide37"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="344.43867,164.2027"
+       orientation="0.70710678,0.70710678"
+       id="guide38"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="328.40541,162.54409"
+       orientation="0.70710678,0.70710678"
+       id="guide39"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs14">
+    <style
+       id="style1">
       .cls-1 {
         fill: url(#Degradado_sin_nombre_37);
       }
@@ -40,52 +135,266 @@
         fill: url(#Degradado_sin_nombre_348);
       }
     </style>
-    <linearGradient id="Degradado_sin_nombre_25" data-name="Degradado sin nombre 25" x1="253.16" y1="383.51" x2="496.53" y2="383.51" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#312783" stop-opacity="0"/>
-      <stop offset=".07" stop-color="#862bde" stop-opacity=".31"/>
-      <stop offset=".23" stop-color="#8a2be2" stop-opacity=".42"/>
-      <stop offset="1" stop-color="#8a2be2"/>
+    <linearGradient
+       id="Degradado_sin_nombre_25"
+       data-name="Degradado sin nombre 25"
+       x1="253.16"
+       y1="383.51"
+       x2="496.53"
+       y2="383.51"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#312783"
+         stop-opacity="0"
+         id="stop1" />
+      <stop
+         offset=".07"
+         stop-color="#862bde"
+         stop-opacity=".31"
+         id="stop2" />
+      <stop
+         offset=".23"
+         stop-color="#8a2be2"
+         stop-opacity=".42"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#8a2be2"
+         id="stop4" />
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_348" data-name="Degradado sin nombre 348" x1="6" y1="139.39" x2="253.16" y2="139.39" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2581c4"/>
-      <stop offset=".48" stop-color="#163de5" stop-opacity=".47"/>
-      <stop offset=".96" stop-color="#153ae6" stop-opacity=".42"/>
-      <stop offset="1" stop-color="#312783" stop-opacity="0"/>
+    <linearGradient
+       id="Degradado_sin_nombre_348"
+       data-name="Degradado sin nombre 348"
+       x1="6"
+       y1="139.39"
+       x2="253.16"
+       y2="139.39"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#2581c4"
+         id="stop5" />
+      <stop
+         offset=".48"
+         stop-color="#163de5"
+         stop-opacity=".47"
+         id="stop6" />
+      <stop
+         offset=".96"
+         stop-color="#153ae6"
+         stop-opacity=".42"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#312783"
+         stop-opacity="0"
+         id="stop8" />
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_37" data-name="Degradado sin nombre 37" x1="157.03" y1="263.12" x2="349.29" y2="263.12" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#2c75ff"/>
-      <stop offset=".92" stop-color="#87cefa" stop-opacity=".49"/>
-      <stop offset="1" stop-color="#2581c4" stop-opacity="0"/>
+    <linearGradient
+       id="Degradado_sin_nombre_37"
+       data-name="Degradado sin nombre 37"
+       x1="157.03"
+       y1="263.12"
+       x2="349.29"
+       y2="263.12"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#2c75ff"
+         id="stop9" />
+      <stop
+         offset=".92"
+         stop-color="#87cefa"
+         stop-opacity=".49"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="#2581c4"
+         stop-opacity="0"
+         id="stop11" />
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_332" data-name="Degradado sin nombre 332" x1="253.16" y1="138.9" x2="494.3" y2="138.9" gradientUnits="userSpaceOnUse">
-      <stop offset=".58" stop-color="#153ae6" stop-opacity=".42"/>
-      <stop offset=".97" stop-color="#2581c4"/>
-      <stop offset="1" stop-color="#009fe3" stop-opacity="0"/>
+    <linearGradient
+       id="Degradado_sin_nombre_332"
+       data-name="Degradado sin nombre 332"
+       x1="253.16"
+       y1="138.9"
+       x2="494.3"
+       y2="138.9"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".58"
+         stop-color="#153ae6"
+         stop-opacity=".42"
+         id="stop12" />
+      <stop
+         offset=".97"
+         stop-color="#2581c4"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="#009fe3"
+         stop-opacity="0"
+         id="stop14" />
     </linearGradient>
-    <linearGradient id="Degradado_sin_nombre_332-2" data-name="Degradado sin nombre 332" x1="60.9" y1="293.72" x2="308.05" y2="293.72" gradientTransform="translate(314.06 677.43) rotate(-180)" xlink:href="#Degradado_sin_nombre_332"/>
+    <linearGradient
+       id="Degradado_sin_nombre_332-2"
+       data-name="Degradado sin nombre 332"
+       x1="60.9"
+       y1="293.72"
+       x2="308.05"
+       y2="293.72"
+       gradientTransform="translate(314.06 677.43) rotate(-180)"
+       xlink:href="#Degradado_sin_nombre_332" />
   </defs>
-  <polygon class="cls-3" points="496.53 414.34 496.53 504.3 389.7 504.3 253.16 362.53 324.66 288.28 349.29 262.71 496.53 414.34"/>
-  <polygon class="cls-8" points="253.16 163.5 205.09 213.1 157.03 262.71 6 105.57 6 16.08 110.31 16.08 253.16 163.5"/>
-  <polygon class="cls-1" points="349.29 262.71 324.66 288.28 253.16 362.53 157.03 262.71 205.09 213.2 253.16 163.7 349.29 262.71"/>
-  <polygon class="cls-2" points="494.3 15.1 494.3 104.95 346.95 262.71 253.16 163.11 392.54 15.1 494.3 15.1"/>
-  <polygon class="cls-5" points="6.01 504.3 6.01 416.78 157.03 263.12 253.16 360.13 110.3 504.3 6.01 504.3"/>
-  <line class="cls-6" x1="277.05" y1="188.31" x2="323.96" y2="141.88"/>
-  <ellipse class="cls-4" cx="335.67" cy="130.19" rx="11.71" ry="11.91"/>
-  <ellipse class="cls-7" cx="444.22" cy="71.96" rx="15.34" ry="15.59"/>
-  <ellipse class="cls-7" cx="444.22" cy="450.97" rx="15.34" ry="15.59"/>
-  <ellipse class="cls-7" cx="61.46" cy="71.96" rx="15.34" ry="15.59"/>
-  <ellipse class="cls-7" cx="61.46" cy="450.97" rx="15.34" ry="15.59"/>
-  <ellipse class="cls-7" cx="255.06" cy="260.44" rx="15.34" ry="15.59"/>
-  <line class="cls-4" x1="300.5" y1="212.46" x2="428.89" y2="84.04"/>
-  <line class="cls-7" x1="200.83" y1="308.19" x2="73.01" y2="438.76"/>
-  <line class="cls-7" x1="205.09" y1="213.2" x2="73.01" y2="84.04"/>
-  <line class="cls-7" x1="301.23" y1="312.62" x2="428.89" y2="438.76"/>
-  <line class="cls-7" x1="223.5" y1="333.47" x2="173.41" y2="381.82"/>
-  <line class="cls-7" x1="323.6" y1="287.16" x2="371.16" y2="338.08"/>
-  <ellipse class="cls-4" cx="383.01" cy="350.62" rx="11.71" ry="11.91"/>
-  <ellipse class="cls-4" cx="164.84" cy="393.5" rx="11.71" ry="11.91"/>
-  <g>
-    <line class="cls-6" x1="227.4" y1="190.23" x2="177.31" y2="141.88"/>
-    <ellipse class="cls-4" cx="168.74" cy="130.19" rx="11.71" ry="11.91"/>
+  <polygon
+     class="cls-3"
+     points="496.53 414.34 496.53 504.3 389.7 504.3 253.16 362.53 324.66 288.28 349.29 262.71 496.53 414.34"
+     id="polygon14" />
+  <polygon
+     class="cls-8"
+     points="253.16 163.5 205.09 213.1 157.03 262.71 6 105.57 6 16.08 110.31 16.08 253.16 163.5"
+     id="polygon15" />
+  <polygon
+     class="cls-1"
+     points="349.29 262.71 324.66 288.28 253.16 362.53 157.03 262.71 205.09 213.2 253.16 163.7 349.29 262.71"
+     id="polygon16" />
+  <polygon
+     class="cls-2"
+     points="494.3 15.1 494.3 104.95 346.95 262.71 253.16 163.11 392.54 15.1 494.3 15.1"
+     id="polygon17" />
+  <polygon
+     class="cls-5"
+     points="6.01 504.3 6.01 416.78 157.03 263.12 253.16 360.13 110.3 504.3 6.01 504.3"
+     id="polygon18" />
+  <line
+     class="cls-6"
+     x1="277.05"
+     y1="188.31"
+     x2="323.96"
+     y2="141.88"
+     id="line18" />
+  <ellipse
+     class="cls-4"
+     cx="335.67"
+     cy="130.19"
+     rx="11.71"
+     ry="11.91"
+     id="ellipse18" />
+  <ellipse
+     class="cls-7"
+     cx="444.22"
+     cy="71.96"
+     rx="15.34"
+     ry="15.59"
+     id="ellipse19" />
+  <ellipse
+     class="cls-7"
+     cx="444.22"
+     cy="450.97"
+     rx="15.34"
+     ry="15.59"
+     id="ellipse20" />
+  <ellipse
+     class="cls-7"
+     cx="61.46"
+     cy="71.96"
+     rx="15.34"
+     ry="15.59"
+     id="ellipse21" />
+  <ellipse
+     class="cls-7"
+     cx="61.46"
+     cy="450.97"
+     rx="15.34"
+     ry="15.59"
+     id="ellipse22" />
+  <ellipse
+     class="cls-7"
+     cx="255.06"
+     cy="260.44"
+     rx="38.088009"
+     ry="38.708744"
+     id="ellipse23" />
+  <line
+     class="cls-4"
+     x1="300.5"
+     y1="212.46"
+     x2="428.89"
+     y2="84.04"
+     id="line23" />
+  <line
+     class="cls-7"
+     x1="201.96074"
+     y1="310.92987"
+     x2="72.985008"
+     y2="438.78448"
+     id="line24" />
+  <line
+     class="cls-7"
+     x1="205.09"
+     y1="213.2"
+     x2="73.01"
+     y2="84.04"
+     id="line25" />
+  <line
+     class="cls-7"
+     x1="301.23"
+     y1="312.62"
+     x2="428.89"
+     y2="438.76"
+     id="line26" />
+  <line
+     class="cls-7"
+     x1="223.5"
+     y1="333.47"
+     x2="173.41"
+     y2="381.82"
+     id="line27" />
+  <line
+     class="cls-7"
+     x1="228.9799"
+     y1="237.36699"
+     x2="279.54697"
+     y2="285.2178"
+     id="line27-3"
+     style="fill:none;stroke:#1d1d1b;stroke-width:12px;stroke-miterlimit:10" />
+  <line
+     class="cls-7"
+     x1="324.76132"
+     y1="288.18307"
+     x2="374.42166"
+     y2="337.05692"
+     id="line28" />
+  <ellipse
+     class="cls-4"
+     cx="384.66864"
+     cy="346.74991"
+     rx="11.71"
+     ry="11.91"
+     id="ellipse28" />
+  <ellipse
+     class="cls-4"
+     cx="164.84"
+     cy="393.5"
+     rx="11.71"
+     ry="11.91"
+     id="ellipse29" />
+  <g
+     id="g30">
+    <line
+       class="cls-6"
+       x1="228.40523"
+       y1="190.12589"
+       x2="177.41051"
+       y2="140.3255"
+       id="line29" />
+    <ellipse
+       class="cls-4"
+       cx="168.74"
+       cy="130.19"
+       rx="11.71"
+       ry="11.91"
+       id="ellipse30" />
   </g>
 </svg>
